@@ -25,7 +25,7 @@
 - Версия Unity 2018.2.16f1
 
 ## Визуализация результатов
-1)Следование камеры за **Ball** и вращение вокруг него
+1)Следование камеры за **Ball** и вращение вокруг него<br>
 <a><img src="https://media.giphy.com/media/i2n73SzXYYS5ORYN70/giphy.gif"></a><br>
 2)Движение всех 4 **Ball** по своим траекториям, а также визуализации каждой траектории цветом материала этого **Ball**<br>
 <a><img src="https://media.giphy.com/media/5YglSSY37DPROKn7JD/giphy.gif"></a><br>
