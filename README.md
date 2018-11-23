@@ -20,4 +20,4 @@
 - Версия Unity 2018.2.16f1
 
 ## Визуализация результатов
-![](https://i.imgur.com/opuxzN7.gif)
+<a href="http://yapx.ru/v/CzMyA" title="GIF-изображение загружено на фотохостинг yapx.ru"><img src="http://i.yapx.ru/CzMyA.gif" alt="Хостинг картинок yapx.ru"></a>
